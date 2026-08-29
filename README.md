@@ -11,7 +11,8 @@ Futuristic glass‑morphism portfolio for Laxmi Chandrahaas Donthula – BTech C
 
 ## 🚀 Live Preview
 
-👉 **[Click here to view the live site]()** (Replace with your actual URL)
+👉 [**[Click here to view the live site]()** ]
+https://laxmichandrahaas.github.io/Portfolio-Website/
 
 ---
 
